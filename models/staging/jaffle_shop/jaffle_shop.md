@@ -1,6 +1,6 @@
 {% docs order_status %}
 	
-One of the following values: 
+The following values are valid statuses: 
 
 | status         | definition                                       |
 |----------------|--------------------------------------------------|
